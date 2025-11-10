@@ -1,0 +1,24 @@
+[
+  {
+    "author_pin": false,
+    "aweme_id": "7171782248281165058",
+    "cid": "7171787686901465902",
+    "comment_language": "en",
+    "create_time": 1669811972,
+    "digg_count": 42526,
+    "reply_comment_total": 268,
+    "text": "This is the actual meaning of sigma",
+    "user": {
+      "nickname": "alex",
+      "unique_id": "error_7690",
+      "avatar_thumb": {
+        "url_list": [
+          "https://example.com/avatar/alex.jpg"
+        ]
+      }
+    },
+    "share_info": {
+      "url": "https://m.tiktok.com/v/7171782248281165058.html?share_comment_id=7171787686901465902"
+    }
+  }
+]
