@@ -1,0 +1,7 @@
+"""
+    if not isinstance(url, str):
+        return ""
+    # /video/{id}
+    m = re.search(r"/video/(\d+)", url)
+    if m:
+        return m.group(1)
