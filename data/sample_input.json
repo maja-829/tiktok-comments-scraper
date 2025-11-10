@@ -1,0 +1,60 @@
+{
+  "startUrls": [
+    "https://www.tiktok.com/@scout2015/video/7171782248281165058",
+    "https://m.tiktok.com/v/7171782248281165058.html"
+  ],
+  "sampleComments": {
+    "https://www.tiktok.com/@scout2015/video/7171782248281165058": [
+      {
+        "author_pin": false,
+        "aweme_id": "7171782248281165058",
+        "cid": "7171787686901465902",
+        "comment_language": "en",
+        "create_time": 1669811972,
+        "digg_count": 42526,
+        "reply_comment_total": 268,
+        "text": "This is the actual meaning of sigma",
+        "user": {
+          "nickname": "alex",
+          "unique_id": "error_7690",
+          "avatar_thumb": { "url_list": ["https://example.com/avatar/alex.jpg"] }
+        },
+        "share_info": {
+          "url": "https://m.tiktok.com/v/7171782248281165058.html?share_comment_id=7171787686901465902"
+        }
+      },
+      {
+        "author_pin": true,
+        "aweme_id": "7171782248281165058",
+        "cid": "7171787686901465903",
+        "comment_language": "en",
+        "create_time": 1669812972,
+        "digg_count": 123,
+        "reply_comment_total": 12,
+        "text": "Pinned by creator ✅",
+        "user": {
+          "nickname": "Creator",
+          "unique_id": "creator_001",
+          "avatar": "https://example.com/avatar/creator.png"
+        }
+      }
+    ],
+    "https://m.tiktok.com/v/7171782248281165058.html": [
+      {
+        "pinned": false,
+        "awemeId": "7171782248281165058",
+        "id": "7171787686901465904",
+        "lang": "en",
+        "timestamp": 1669813972,
+        "likes": 987,
+        "reply_count": 5,
+        "comment": "I laughed harder than I should 😂",
+        "author": {
+          "displayName": "sam",
+          "username": "sammy",
+          "avatarThumb": { "urlList": ["https://example.com/avatar/sam.jpg"] }
+        }
+      }
+    ]
+  }
+}
